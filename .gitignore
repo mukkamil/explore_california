@@ -1,0 +1,19 @@
+#temp file to ignore 
+tempfile
+#any thing that has log extension
+*.log
+*.log.[0-9]
+log/*.log
+#the system based file
+*.dll
++temp pattern file
+temp_*.txt
+assets/photoshop/
+assets/photoshops/
+!assets/photoshops/nuts*.txt
+/assets/videos/
+!assets/videso/tour*.mp4
+
+--ignore zip and gz files
+*.zip
+*.gz
