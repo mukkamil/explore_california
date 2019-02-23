@@ -1,5 +1,5 @@
 #temp file to ignore 
-tempfile
+tempfile.txt
 #any thing that has log extension
 *.log
 *.log.[0-9]
