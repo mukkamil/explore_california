@@ -17,3 +17,5 @@ assets/photoshops/
 --ignore zip and gz files
 *.zip
 *.gz
+*.exe
+*.jpeg
